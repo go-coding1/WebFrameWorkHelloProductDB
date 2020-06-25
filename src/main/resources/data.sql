@@ -1,0 +1,12 @@
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("airpod", "IT", 200000, "애플", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("airpod2", "IT", 250000, "애플", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("airpodpro", "IT", 300000, "애플", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("GalaxyS10", "IT", 1000000, "삼성", 10, "스마트폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("GalaxyS10+", "IT", 1400000, "삼성", 10, "스마트폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("데님셔츠", "Fashion", 20000, "스파오", 100, "오버핏셔츠")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("헬스복", "Fashion", 50000, "운지기", 80, "헬스복")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("지진에서 살아남기", "Book", 200000, "교보", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("바다에서 살아남기", "Book", 200000, "동아", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("던전에서 살아남기", "Book", 200000, "교원", 10, "무선이어폰")
+insert into product(name, category, price, manufacturer, unitInStock, description ) values ("화산에서 살아남기", "Book", 200000, "한림", 10, "무선이어폰")
+
